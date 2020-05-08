@@ -54,7 +54,7 @@ python -m ipykernel install --user --name your-env-name --display-name "Python (
 ``` 
 jupyter notebook 
 ```
-- Once the jupyter window appears in the window, from the homepage open [API Key.txt]() and place your api key within the inverted commas. Save the file.
+- Once the jupyter window appears in the window, from the homepage open [API Key.txt](https://github.com/kritika-srivastava/Google-place-ID-Reviews-Scrapping/blob/master/API%20Key.txt) and place your api key within the inverted commas. Save the file.
 &nbsp;
 
 - Open the following jupyter notebook from homepage[Google Place ID reviews Scrapping.ipynb](https://github.com/kritika-srivastava/Google-place-ID-Reviews-Scrapping/blob/master/Google%20Place%20ID%20reviews%20Scrapping.ipynb). Now place the place ID of the place for which you want to extract reviews in line number 8 of cell 3 .
